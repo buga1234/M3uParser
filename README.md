@@ -1,8 +1,8 @@
 # Parser/Generator m3u playlists
 
-[![License](https://poser.pugx.org/gemorroj/m3u-parser/license)](https://packagist.org/packages/gemorroj/m3u-parser)
-[![Latest Stable Version](https://poser.pugx.org/gemorroj/m3u-parser/v/stable)](https://packagist.org/packages/gemorroj/m3u-parser)
-[![Continuous Integration](https://github.com/Gemorroj/M3uParser/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/Gemorroj/M3uParser/actions?query=workflow%3A%22Continuous+Integration%22)
+[![License](https://poser.pugx.org/buga1234/m3u-parser/license)](https://packagist.org/packages/buga1234/m3u-parser)
+[![Latest Stable Version](https://poser.pugx.org/buga1234/m3u-parser/v/stable)](https://packagist.org/packages/buga1234/m3u-parser)
+[![Continuous Integration](https://github.com/buga1234/M3uParser/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/buga1234/M3uParser/actions?query=workflow%3A%22Continuous+Integration%22)
 
 
 ### Requirements:
@@ -12,7 +12,7 @@
 
 ### Installation:
 ```bash
-composer require gemorroj/m3u-parser
+composer require buga1234/m3u-parser
 ```
 
 
